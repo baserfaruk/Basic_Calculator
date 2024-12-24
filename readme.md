@@ -1,0 +1,1 @@
+Hi, this is a simple calculator coded in Rust
